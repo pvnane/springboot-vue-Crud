@@ -1,0 +1,14 @@
+com\itcast\SSMPApplication.class
+com\itcast\service\BookService.class
+com\itcast\service\IBookService.class
+com\itcast\controller\utils\R.class
+com\itcast\domain\Book.class
+com\itcast\domain\brand.class
+com\itcast\mapper\BrandMapper.class
+com\itcast\config\MpConfig.class
+com\itcast\controller\BookController.class
+com\itcast\controller\utils\ProjectExceptionAdvice.class
+com\itcast\service\Impl\BookServiceImpl2.class
+com\itcast\mapper\BookMapper.class
+com\itcast\controller\BookController2.class
+com\itcast\service\Impl\BookServiceImpl.class
