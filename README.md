@@ -1,4 +1,4 @@
-![输入图片说明](%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/2.png)# springboot+vue简单Crud以及分页功能的实现
+# springboot+vue简单Crud以及分页功能的实现
 
 #### 介绍
 学习完springboot和vue基础后做的一个关于图书的增删改查练习，欢迎大家下载使用。
